@@ -13,14 +13,14 @@ This a simple calculator app made for android devices. and was my first experien
 # Description
 
 This app allows a user to perform simple arithematic operations. The app uses the rhino library for its functioning. Users can input there query and tap in the = button to get the result. The app facilitates the following operations:
-Clear (button to erase the contents of input and output)
-Backspace
-Percentage
-Divide
-Multiply
-Add
-Subtract
-Bracket insertion
+1. Clear (button to erase the contents of input and output)
+2. Backspace
+3. Percentage
+4. Divide
+5. Multiply
+6. Add
+7. Subtract
+8. Bracket insertion
 
 # Conclusion
 
