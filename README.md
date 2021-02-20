@@ -3,7 +3,7 @@
 NOTE: Check the master branch for the code.
 
 
-This a simple calculator app made for android devices. and was my first experience of working in Android Studio! Here is a snippet of the app to show how it looks like:
+This a simple calculator app made for android devices and was my first experience of working in Android Studio! Here is a snippet of the app to show how it looks like:
 
 ![Screenshot_20210220-160550](https://user-images.githubusercontent.com/69216934/108603725-9fb81d00-73cf-11eb-9fb9-90380e747fe4.jpg)
 
