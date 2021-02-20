@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
                         process=tvinput.getText().toString();
-                        tvinput.setText(process+"7");
+                        tvinput.setText(process+"8");
                     }
                 }
         );
